@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Amirsam . CyberSecurity . Rust enjoyer and other things 
+
+### Core skills :
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" title="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
