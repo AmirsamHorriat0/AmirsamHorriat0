@@ -9,4 +9,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" title="Lua"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+</p>
+
+### Tools : 
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40" height="40" title="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="40" height="40" title="Git"/>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white" title="Burp Suite"/>
+  <img src="https://img.shields.io/badge/-Ghidra-FF0000?style=flat&logoColor=white" title="Ghidra"/>
 </p>
