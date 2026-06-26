@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" title="Lua"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://img.shields.io/badge/-TCP/IP-0078D4?style=flat&logo=cisco&logoColor=white" title="Networking / TCP/IP"/>
 </p>
 
 ### Tools : 
